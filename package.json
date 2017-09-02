@@ -1,0 +1,18 @@
+{
+  "name": "01-scheduler",
+  "version": "0.1.0",
+  "description": "This project is created to be a lesson, how to use async-await, EventEmitters, Common design patterns.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": "https://github.com/csakbalint/lesson-scheduler.git",
+  "author": "csakbalint",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0"
+  },
+  "devDependencies": {
+    "standard": "^10.0.3"
+  }
+}
